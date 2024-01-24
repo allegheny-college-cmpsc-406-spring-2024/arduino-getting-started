@@ -12,7 +12,7 @@
 
 1. Plug your Arduino Nano 2040 Connect into your laptop with a MicroUSB data cable.
 2. Download the latest stable `.uf2` file [at this link](https://micropython.org/download/ARDUINO_NANO_RP2040_CONNECT/).
-3. Double-tap the little white reset button on your Arduino. The board will move into bootloader mode and will show up on your computer (with a name like `RPI...`
+3. Double-tap the little white reset button on your Arduino. The board will move into bootloader mode and will show up on your computer (with a name like `RPI...`)
 4. Drag the `.uf2` from Step 2 onto your device. The device will disconnect and the firmware is now loaded. (Don't worry if you get an ejection error!)
 
 ## Step Two: Install an IDE
